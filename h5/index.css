@@ -1,0 +1,12 @@
+.cnt {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.logo {
+  display: block;
+  margin: 100px auto 0;
+  width: 80px;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "h5toMiniprogramDemo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wechat-miniprogram",
+  "license": "MIT",
+  "description": "一个简单的使用 h5-to-miniprogram 工具进行 h5 页面转换成小程序的 demo",
+  "dependencies": {
+    "h5-to-miniprogram": "latest"
+  }
+}
