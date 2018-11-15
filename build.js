@@ -3,7 +3,7 @@ const toMiniprogram = require('h5-to-miniprogram')
 
 toMiniprogram({
   entry: {
-    index: path.join(__dirname, './h5/index.html'),
+    h5: path.join(__dirname, './h5/index.html'),
   },
   output: path.join(__dirname, './miniprogram'),
   config: path.join(__dirname, './config.js'),
